@@ -13,12 +13,12 @@ This repository documents my complete journey learning penetration testing from 
 **Why public?** Because learning in public is more powerful than learning alone.
 
 ---
+## Current Progress
+
+### Rooms Completed
+- ✓ Walking An Application (TryHackMe)
 
 
-### Certifications (Planned)
-- [ ] CPTS (Certified Penetration Tester) - January 2027
-- [ ] OSCP (Offensive Security Certified Professional) - December 2027
-- [ ] COAE (Certified Offensive AI Expert) - October 2028
 
 ---
 
