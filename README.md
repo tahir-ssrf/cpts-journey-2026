@@ -14,13 +14,6 @@ This repository documents my complete journey learning penetration testing from 
 
 ---
 
-## Current Progress
-
-### Rooms Completed
-- ✓ Walking An Application (TryHackMe)
-- ✓ Content Discovery (TryHackMe)
-- ✓ Subdomain Enumeration (TryHackMe)
-- ✓ Authentication Bypass (TryHackMe)
 
 ### Certifications (Planned)
 - [ ] CPTS (Certified Penetration Tester) - January 2027
